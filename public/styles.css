@@ -1,0 +1,314 @@
+.photo-container img {
+    width: 500px;
+  }
+  
+  .photo-container {
+    box-sizing: content-box;
+    width: 100%;
+    border: solid grey 1px;
+    padding: 5px;
+  }
+  
+  body {
+    text-align: center;
+    margin: 100px 500px 100px 500px;
+    background-color:#fafafa
+  
+  }
+  
+  .caption {
+    text-align: left;
+  }
+  
+  .user-details {
+    text-align: left
+  }
+  
+  .error-message {
+    color: red;
+  }
+  #username{
+    height: 50px;
+    width: 400px;
+    border-radius: 8px;
+    background-color:#fafafa;
+    margin-top:10px;
+  }
+  #password{
+    height:50px;
+    width: 400px;
+    border-radius: 8px;
+    background-color:#fafafa;
+    margin-top:10px;
+  }
+  #username-1{
+    height:40px;
+    width: 350px;
+    border-radius: 4px;
+    background-color:#fafafa;
+    margin-top:10px;
+    border:solid gray 1px;
+  }
+  #username-2{
+    height:40px;
+    width: 350px;
+    border-radius: 4px;
+    background-color:#fafafa;
+    margin-top:10px;
+    border:solid gray 1px;
+  }
+  #username-3{
+    height:40px;
+    width: 350px;
+    border-radius: 4px;
+    background-color:#fafafa;
+    margin-top:10px;
+    border:solid gray 1px;
+  }
+  #username-4{
+    height:40px;
+    width: 350px;
+    border-radius: 4px;
+    background-color:#fafafa;
+    margin-top:10px;
+    border:solid gray 1px;
+  }
+  
+  #submit-1 {
+    height:40px;
+    width: 350px;
+    margin-top:20px;
+    background-color: #3897f0;
+  
+  }
+  
+  #submit {
+    height:40px;
+    width: 400px;
+    margin-top:20px;
+    background-color: #3897f0;
+  
+  }
+  #OR-1 {
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+  
+  #OR {
+    margin-top:10px;
+  }
+  
+  .forgot{
+    text-align:center;
+    color:blue;
+    
+  }
+  
+  .add-margin {
+    padding-bottom: 50px;
+  }
+  
+  
+  .logo{
+    margin-bottom:50px;
+    margin-top:50px;
+  }
+  #logo-1{
+    margin-top:50px;
+  
+  }
+  .login-container {
+    background-color:white;
+    outline: 1px solid gray;
+    width: 450px;
+    position: relative;
+    text-align:center;
+  margin-left: 100px;
+  }
+  
+  
+  #signup{
+    background-color: white;
+    border: gray solid 1px;
+    padding-top:30px;
+    padding-bottom:30px;
+    font-size:15px;
+    width: 450px;
+    margin-left: 100px;
+    margin-top:30px;
+  }
+  
+  #github {
+    height:50px;
+    width:50px;
+    margin-top:20px;
+    margin-right:-60px;
+  
+  }
+  #checkout{
+    margin-right:-60px;
+  }
+  
+  #signup-tosee{
+    font-size:25px;
+    color:rgb(161, 155, 155);
+    font-weight: bold;
+    margin-bottom:10px;
+    
+    
+  }
+  #facebook{
+    height:120px;
+    width: 405px;
+    margin-top:20px;
+  
+  }
+  #by{
+    font-size: 20px;
+    color:rgb(161, 155, 155);
+    font-weight: bold;
+    padding-bottom:20px;
+    margin-top:10px;
+  
+  }
+  
+  .user-details{
+    font-size:15px;
+    border: solid 1px black;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-left: -101px;
+    margin-right: -101px;
+    margin-top:-6px;
+  }
+  
+  
+  .photo-container{
+  
+    padding-right:100px;
+    padding-left:100px;
+    margin-left:-70px;
+    background-color:white;
+  }
+  #profile_pic{
+    width:200px;
+    height: 200px;
+    position: relative;
+    left:-300px;
+    
+  }
+  #name{
+    font-size:30px;
+    position: relative;
+    left: -150px;
+    top:-50px;
+  }
+  
+  #follow{
+    
+    font-size:15px;
+    ;
+    
+  
+  }
+  .follow_button{
+    position: relative;
+    left: -145px;
+    top:-55px;
+    border-radius: 4px;
+    
+  
+  }
+  .follow_button:hover{
+    background-color: #3897f0;
+  }
+  
+  
+  
+  #followers1{
+    position: relative;
+    top:-110px;
+    left:-60px;
+    margin-right:20px;
+    font-size:17px;
+  }
+  
+  
+  #following1{
+    position: relative;
+    top:-110px;
+    left:-60px;
+    font-size:17px;
+  }
+  
+  .topnav {
+    background-color:white;
+    padding-right:5000px;
+    position:relative;
+    left:-500px;
+    top:-100px;
+    padding-bottom:-80;
+    
+  }
+  #bio{
+    font-size: 15px;
+    position: relative;
+    top:-100px;
+    left:-25px;
+  }
+  #like{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left:-270px;
+    top:30px;
+  }
+  #like1{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left:-270px;
+    top:30px;
+  }
+  
+  #comment_img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left:-210px;
+    top:-3px;
+  
+  }
+  #airplane{
+    width: 32px;
+    height: 32px;
+    position: relative;
+    left:-164px;
+    margin-left:-30px;
+  }
+  
+  #save{
+    width: 25px;
+    height: 30px;
+    position: relative;
+    left:250px;
+  }
+  
+  #settings{
+    width: 30px;
+    height:30px;
+    position: relative;
+    right:-500px;
+    top:-30px;
+    
+  }
+
+  #upload_twitter{
+      width:30px;
+      height:30px;
+      position: relative;
+      right:-500px;
+  }
+  
+  
+  
